@@ -1,2 +1,2 @@
-# Colonial_hotel_website
+# Colonial hotel website
 The goal of this project was to create a fictitious web for hotel. Limit: 8 hours - VŠB programming course.
